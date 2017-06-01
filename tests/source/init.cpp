@@ -1,4 +1,4 @@
-#include <Matrix.hpp>
+#include <Lab7-2.hpp>
 #include <catch.hpp>
 
 SCENARIO ("test"){
